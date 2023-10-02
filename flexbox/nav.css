@@ -1,0 +1,39 @@
+
+header {
+    margin-top: 100px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+nav> ul {
+    display: flex;
+    list-style-type: none;
+    padding: 14px 0px 14px 0px;
+    margin: -8px -8px -8px;
+    background-color: white;
+    border: 1px dashed red;
+}
+
+li a {
+    border: 1px solid black;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.link1 {
+    margin-right: auto; 
+    justify-content: left;
+}
+.link2 {
+    margin-right: auto;
+}
+.link3 {
+    margin-right: auto;
+}
+.link4 {
+    margin-right: auto;
+}
+.link5 {
+    margin-right: auto;
+}
